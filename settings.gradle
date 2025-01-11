@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "androplaza library v1.0.0"
+rootProject.name = "androplaza library"
 include ':app'
 //include ':app:androplaza'
